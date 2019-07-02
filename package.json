@@ -5,6 +5,7 @@
   "author": "kobaniki <takutohvg@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "emojiner": "github:hico-horiuchi/emojiner",
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",

@@ -1,4 +1,9 @@
 [
+  "changelog",
+  "changelog_cron",
+  "changelog_web",
+  "help",
+  "httpd",
   "hubot-diagnostics",
   "hubot-hello-world",
   "hubot-help",
