@@ -1,9 +1,5 @@
 [
-  "changelog",
-  "changelog_cron",
-  "changelog_web",
-  "help",
-  "httpd",
+  "emojiner",
   "hubot-diagnostics",
   "hubot-hello-world",
   "hubot-help",
