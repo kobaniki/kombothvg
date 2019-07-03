@@ -1,6 +1,5 @@
 [
   "hubot-diagnostics",
-  "count_reactions.coffee",
   "hubot-hello-world",
   "hubot-help",
   "hubot-heroku-keepalive",
