@@ -9,7 +9,7 @@
 _ = require 'lodash'
 
 module.exports = (robot) ->
-  robot.hear /小野/i, (msg) ->
+  robot.respond /小野/i, (msg) ->
     words = [
       "亮"
       "靖"
